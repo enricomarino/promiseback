@@ -22,4 +22,4 @@ class PromiseBack {
 
 }
 
-module.export = PromiseBack
+module.exports = PromiseBack
